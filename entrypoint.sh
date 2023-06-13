@@ -5,7 +5,7 @@ WSPATH=${WSPATH:-'argo'}
 UUID=${UUID:-'0254e3c9-208a-4e7b-8e64-2785a85d0dd8'}
 
 # 其他Paas保活
-PAAS1_URL=
+PAAS1_URL=https://mfhjseh-nteyasvfa.b4a.run/
 PAAS2_URL=
 PAAS3_URL=
 PAAS4_URL=
